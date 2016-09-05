@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/vladvieru/Desktop/School/Android Studio projects/AndroidStudio/ListCardv2/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/vladvieru/Desktop/School/Android Studio projects/AndroidStudio/ListCardv2/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_8f951963049b36db68b5fa12caa80a98a47acaab.jar" />
+    </item>
+    <item
+        jar="/Users/vladvieru/Desktop/School/Android Studio projects/AndroidStudio/ListCardv2/app/build/intermediates/exploded-aar/com.android.support/design/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
+        <dex dex="/Users/vladvieru/Desktop/School/Android Studio projects/AndroidStudio/ListCardv2/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.2.1_bafde959b5757f8635e6480efd7c8adb531b71b2.jar" />
+    </item>
+    <item
+        jar="/Users/vladvieru/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/vladvieru/Desktop/School/Android Studio projects/AndroidStudio/ListCardv2/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_372c449975603d63a5ad4c772095c2ece8747edd.jar" />
+    </item>
+    <item
+        jar="/Users/vladvieru/Desktop/School/Android Studio projects/AndroidStudio/ListCardv2/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/vladvieru/Desktop/School/Android Studio projects/AndroidStudio/ListCardv2/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_277c73d59cef2bc1ff408c790826034b18ca1a7d.jar" />
+    </item>
+    <item
+        jar="/Users/vladvieru/Desktop/School/Android Studio projects/AndroidStudio/ListCardv2/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/vladvieru/Desktop/School/Android Studio projects/AndroidStudio/ListCardv2/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.4.0_c89b62b6f0623f14db3f2b7fb33c55989e6c0328.jar" />
+    </item>
+    <item
+        jar="/Users/vladvieru/Desktop/School/Android Studio projects/AndroidStudio/ListCardv2/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="/Users/vladvieru/Desktop/School/Android Studio projects/AndroidStudio/ListCardv2/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-23.4.0_646098265e98e396a29ff2b5d02166f6a1431cde.jar" />
+    </item>
+    <item
+        jar="/Users/vladvieru/Desktop/School/Android Studio projects/AndroidStudio/ListCardv2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/vladvieru/Desktop/School/Android Studio projects/AndroidStudio/ListCardv2/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_c7885f97761af5040c1292893729b33a672f11e3.jar" />
+    </item>
+    <item
+        jar="/Users/vladvieru/Desktop/School/Android Studio projects/AndroidStudio/ListCardv2/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/vladvieru/Desktop/School/Android Studio projects/AndroidStudio/ListCardv2/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_de50f75cad99888df8a95f57d33d7c3cf0573ff5.jar" />
+    </item>
+    <item
+        jar="/Users/vladvieru/Desktop/School/Android Studio projects/AndroidStudio/ListCardv2/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/vladvieru/Desktop/School/Android Studio projects/AndroidStudio/ListCardv2/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_a2bc41b4639c4010fb558ca26d8752c4437e7e16.jar" />
+    </item>
+
+</items>
